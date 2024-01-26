@@ -11,4 +11,9 @@ A project sharing website in which users can register themselves and share their
 4. Django
 5. SQLlite3
 
+<br>
+<h2>
+  Deployed
+</h2>
+In working
 
