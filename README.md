@@ -1,2 +1,26 @@
 # devsearch
-A social media app for developer in which many developer are connected together and share their project.
+A project sharing website in which users can register themselves and share their contributions as projects
+<br>
+
+<h2>
+  Tools used
+</h2>
+1. HTML
+2. CSS 
+3. Javascript
+4. Django
+5. SQLlite3
+
+<br>
+<h2>
+  Deployed
+</h2>
+In working
+
+<h2>
+  Features
+</h2>
+Signup, Login, Add Project, Profile, Search Projects and Profile
+
+
+
