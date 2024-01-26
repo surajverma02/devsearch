@@ -26,6 +26,7 @@ Signup, Login, Add Project, Profile, Search Projects and Profile
 Sample image
 </h2>
 
+<img src="image3.png" ><br>
 <img src="image1.png" ><br>
 <img src="image2.png" >
 
