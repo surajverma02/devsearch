@@ -22,5 +22,12 @@ In working
 </h2>
 Signup, Login, Add Project, Profile, Search Projects and Profile
 
+<h2>
+Sample image
+</h2>
+
+<img src="image1.png" ><br>
+<img src="image2.png" >
+
 
 
