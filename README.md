@@ -17,3 +17,10 @@ A project sharing website in which users can register themselves and share their
 </h2>
 In working
 
+<h2>
+  Features
+</h2>
+Signup, Login, Add Project, Profile, Search Projects and Profile
+
+
+
